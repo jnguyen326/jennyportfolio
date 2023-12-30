@@ -8,13 +8,13 @@ Credit to varadbhogayata.github.io!
 
 
 ## Sections 📚
-✔️ About me\
+✔️ About me \
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
 ✔️ Education\
 ✔️ Contact Info\
-✔️ Resume
+✔️ Resume \
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
